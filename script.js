@@ -1,4 +1,4 @@
-let a = 16;
+let a = 1;
 
 if (a < 15) {
     console.log('ДА, а меньше 15');
